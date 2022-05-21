@@ -1,4 +1,4 @@
-# Repo Name: JavaIntro
+# Repo Name: AndroidIntro
 
 ## First attempt at Android Studie April 2022
 
